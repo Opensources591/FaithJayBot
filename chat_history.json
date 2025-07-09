@@ -1,0 +1,14 @@
+{
+  "messages": [
+    {
+      "id": "1c24bac0-1a48-4328-b118-df2d6f87b7ae",
+      "sessionId": "test_session_123",
+      "userMessage": "Hello test",
+      "botReply": "I'm temporarily offline. Please try again shortly 🙏🏽",
+      "timestamp": "2025-07-09T18:27:59.119Z"
+    }
+  ],
+  "sessions": [
+    "test_session_123"
+  ]
+}
